@@ -1,7 +1,7 @@
-#Boots Boutique
+# Boots Boutique
 
-##About the project
-Boots Boutique is a project from Codecademy that uses Spring Data JPA for the Boots API so that the frontend can the following:
+## About the project
+Boots Boutique is a project from Codecademy that uses Spring Data JPA for the Boots API so that the frontend can do the following:
 - Create new boots
 - Read and search the boots inventory
 - Update the number of any given boot in the inventory
@@ -9,7 +9,9 @@ Boots Boutique is a project from Codecademy that uses Spring Data JPA for the Bo
 
 Status: **Completed**
 
-#Getting Started
+Technologies: Java; Spring; Spring Data JPA; HTML, CSS, & Javascript
+
+## Getting Started
 1. Clone this repository and use it locally:
 ```
 $ git clone https://github.com/gianclbal/codecademy-projects.git
