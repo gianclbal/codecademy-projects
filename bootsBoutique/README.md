@@ -12,7 +12,7 @@ Status: **Completed**
 #Getting Started
 1. Clone this repository and use it locally:
 ```
-$ git clone 
+$ git clone https://github.com/gianclbal/codecademy-projects.git
 ```
 2. Install necessary Maven plugin:
 ```
